@@ -1,0 +1,12 @@
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
+wwwroot\img\gvs.png
+wwwroot\img\homecenter-desktop-logo.webp
+wwwroot\img\HomeCenter.jpg
+wwwroot\img\Logo-Annar-Azul-2.png
+wwwroot\img\Logo-Informatica-Creativa-1024x438.jpg
+wwwroot\img\logo-siesa-peq.png
+wwwroot\img\RubenCordoba3.jpg
+wwwroot\img\siesa.png

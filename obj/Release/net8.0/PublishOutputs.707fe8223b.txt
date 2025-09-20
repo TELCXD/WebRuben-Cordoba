@@ -1,0 +1,7 @@
+C:\Users\kadye\Documents\RUBEN\web\ruben-cordoba\obj\Release\net8.0\PubTmp\Out\ruben-cordoba.exe
+C:\Users\kadye\Documents\RUBEN\web\ruben-cordoba\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kadye\Documents\RUBEN\web\ruben-cordoba\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\kadye\Documents\RUBEN\web\ruben-cordoba\obj\Release\net8.0\PubTmp\Out\ruben-cordoba.dll
+C:\Users\kadye\Documents\RUBEN\web\ruben-cordoba\obj\Release\net8.0\PubTmp\Out\ruben-cordoba.deps.json
+C:\Users\kadye\Documents\RUBEN\web\ruben-cordoba\obj\Release\net8.0\PubTmp\Out\ruben-cordoba.runtimeconfig.json
+C:\Users\kadye\Documents\RUBEN\web\ruben-cordoba\obj\Release\net8.0\PubTmp\Out\ruben-cordoba.pdb
