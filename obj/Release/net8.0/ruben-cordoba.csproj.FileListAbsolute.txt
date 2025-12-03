@@ -30,3 +30,4 @@ C:\Users\kadye\Documents\RUBEN\web\ruben-cordoba\obj\Release\net8.0\refint\ruben
 C:\Users\kadye\Documents\RUBEN\web\ruben-cordoba\obj\Release\net8.0\ruben-cordoba.pdb
 C:\Users\kadye\Documents\RUBEN\web\ruben-cordoba\obj\Release\net8.0\ruben-cordoba.genruntimeconfig.cache
 C:\Users\kadye\Documents\RUBEN\web\ruben-cordoba\obj\Release\net8.0\ref\ruben-cordoba.dll
+C:\Users\kadye\Documents\RUBEN\web\ruben-cordoba\obj\Release\net8.0\ruben-cordoba.sourcelink.json

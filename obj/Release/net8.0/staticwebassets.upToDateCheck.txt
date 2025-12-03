@@ -10,3 +10,4 @@ wwwroot\img\Logo-Informatica-Creativa-1024x438.jpg
 wwwroot\img\logo-siesa-peq.png
 wwwroot\img\RubenCordoba3.jpg
 wwwroot\img\siesa.png
+wwwroot\img\Amaris-Consulting.png

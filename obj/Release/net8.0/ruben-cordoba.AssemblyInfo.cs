@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ruben-cordoba")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac758909d7df0b41d6ed72a8f7913a18bcf28c02")]
 [assembly: System.Reflection.AssemblyProductAttribute("ruben-cordoba")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ruben-cordoba")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

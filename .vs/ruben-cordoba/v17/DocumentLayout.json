@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kadye\\Documents\\RUBEN\\web\\ruben-cordoba\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5482F6F2-7BB6-400E-A9B6-6C888BDB5FEF}|ruben-cordoba.csproj|c:\\users\\kadye\\documents\\ruben\\web\\ruben-cordoba\\components\\pages\\sobremi\\sobremi.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5482F6F2-7BB6-400E-A9B6-6C888BDB5FEF}|ruben-cordoba.csproj|solutionrelative:components\\pages\\sobremi\\sobremi.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SobreMi.razor",
+              "DocumentMoniker": "C:\\Users\\kadye\\Documents\\RUBEN\\web\\ruben-cordoba\\Components\\Pages\\SobreMi\\SobreMi.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\SobreMi\\SobreMi.razor",
+              "ToolTip": "C:\\Users\\kadye\\Documents\\RUBEN\\web\\ruben-cordoba\\Components\\Pages\\SobreMi\\SobreMi.razor",
+              "RelativeToolTip": "Components\\Pages\\SobreMi\\SobreMi.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T12:48:04.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
